@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Axel !
 
-<!--
-**axeljuan02/axeljuan02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **3rd year BBA student at ESSEC Business School, France**, passionated about **Finance** and **Computer Science**, <br/>two fields that drive my curiosity and ambition.
 
-Here are some ideas to get you started:
+## What I’m into
+- 📈 **Finance:** Investment strategies, portfolio optimization and financial modeling. 
+- 🐧 **Linux enthusiast:** Comfortable working in CLI and open-source environments  
+- 🐍 **Python developer:** Building scripts, automation, data analysis, and more  
+- 🌐 **Web apps:** Designing and developing interactive web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Goals
+- Merge finance and technology to build innovative solutions  
+- Deepen my expertise in Python and Linux systems  
+- Create scalable and user-friendly web apps that make a difference  
