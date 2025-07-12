@@ -14,7 +14,7 @@ Being a **Tech Enthusiast**, I love both hardware, software, cybersecurity than 
 - Deepen my expertise in Python and Linux systems  
 - Create scalable and user-friendly web apps that make a difference  
 
-## Tech Stacks
+## Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
